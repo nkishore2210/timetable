@@ -105,6 +105,6 @@ Execute the program
    </body>
 </html>
 
-# OUPUT
+# OUTPUT
 ![Screenshot_20230109_092512](https://user-images.githubusercontent.com/118707090/211453863-c1eda069-bdc1-43b1-aa9a-2085a3345a2f.png)
 

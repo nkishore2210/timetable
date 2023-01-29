@@ -88,10 +88,8 @@ Execute the program
              <td colspan="2"><center>Fundamentals of Web Application Development(19AI414)/Karthi Govindharaju</center></td>
              <td colspan="2"><center>Communicative English(19EN101)/Freeda Rajakumar R</center></td>
 </tr>
-
- 
-        
-      </table>
+</table>
+      
     <br><center>1. 19AI414 - Fundamentals of Web Applicatin Development</center></br>
     <br><center>2. 19AI304 - Fundamentals of C Programming</center></br>
     <br><center>3. 19EE404 - Digital Electronics</center></br>
@@ -99,14 +97,14 @@ Execute the program
     <br><center>5. 19EN101 - Communicative English</center></br>
     <br><center>6. 19EY701 - Soft skills</center></br>
     <br><center>7. 19EN612 - German basic</center></br>
-    
-      
-     
-   </body>
+
+</body>
 </html>
 
 # OUTPUT
-![Screenshot_20230109_092512](https://user-images.githubusercontent.com/118707090/211453863-c1eda069-bdc1-43b1-aa9a-2085a3345a2f.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/118707090/215313068-7446d19d-154e-407e-ae88-1f7d4fb27412.png)
+
 
 RESULT:
 This program is executed successfully.
